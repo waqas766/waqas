@@ -1,0 +1,20 @@
+body {
+  background-image: url(https://www.bing.com/images/blob?bcid=RGjV-MzZTQIB1Q);
+  background-size: cover;
+}
+h1 {
+  font-size: 70px;
+  color: darkorange;
+}
+p {
+  color: green;
+  font-size: x-large;
+}
+
+.box {
+  background-color: white;
+  width: 200px;
+  margin: 1rem;
+  border: 10px solid green;
+  padding: 100px;
+}
