@@ -1,0 +1,28 @@
+body {
+  background-image: url(https://www.bing.com/images/blob?bcid=RGjV-MzZTQIB1Q);
+  background-size: cover;
+}
+h1 {
+  font-size: 70px;
+  color: darkorange;
+}
+p {
+  color: green;
+  font-size: x-large;
+}
+/*the css model
+margin =can be top,left,right,bottom it pushes away the text if you wana move it 
+to side then u should write 100px and 0
+border=boder-width,boder-color,boder style-there is also a short cut for boder you 
+just have to write boder and write 3 values for example
+border:5px solid green;
+padding also do have have shortcut just write paddind and write 4 vales it works 
+tom to right and then bottom to left for example 5px 5px px 5px
+*/
+.box {
+  background-color: white;
+  width: 200px;
+  margin: 1rem;
+  border: 10px solid green;
+  padding: 100px;
+}
